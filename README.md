@@ -10,7 +10,7 @@ Attention gate (AG) model for medical imaging is automatically learns to focus o
 
 # Architecture
 
-
+![attention_gate](https://github.com/khajaraouf/Segmation_Attention_Unetent/assets/70451209/05a0d615-d61a-4f38-8849-be96fd1dea59)
 
 # Reference Papers
 
